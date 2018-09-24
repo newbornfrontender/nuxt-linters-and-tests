@@ -12,8 +12,8 @@
     "generate": "nuxt generate",
     "stylelint": "stylelint **/*.{css,vue}",
     "stylelint:fix": "stylelint **/*.{css,vue} --fix",
-    "eslint": "eslint **/*.{js,jsx,vue}",
-    "eslint:fix": "eslint **/*.{js,jsx,vue} --fix"
+    "eslint": "eslint --ext js,jsx,vue .",
+    "eslint:fix": "eslint --ext js,jsx,vue . --fix"
   },
   "dependencies": {
     "nuxt": "^2.0.0"
