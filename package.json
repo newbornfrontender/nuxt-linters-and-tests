@@ -1,0 +1,8 @@
+{
+  "name": "nuxt-linters-and-tests",
+  "version": "1.0.0",
+  "description": "Тестовый проект на Nuxt для проверки линтеров и тестов",
+  "repository": "https://github.com/newbornfrontender/nuxt-linters-and-tests.git",
+  "author": "Infant Frontender <newbornfrontender@gmail.com>",
+  "license": "MIT"
+}
