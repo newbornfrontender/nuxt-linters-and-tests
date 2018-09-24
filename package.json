@@ -4,5 +4,12 @@
   "description": "Тестовый проект на Nuxt для проверки линтеров и тестов",
   "repository": "https://github.com/newbornfrontender/nuxt-linters-and-tests.git",
   "author": "Infant Frontender <newbornfrontender@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore ."
+  }
 }
