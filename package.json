@@ -10,8 +10,8 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
-    "stylelint": "stylelint **/*.{css,vue}",
-    "stylelint:fix": "stylelint **/*.{css,vue} --fix",
+    "stylelint": "stylelint **/*.{css,postcss,pcss,vue}",
+    "stylelint:fix": "stylelint **/*.{css,postcss,pcss,vue} --fix",
     "eslint": "eslint --ext js,jsx,vue .",
     "eslint:fix": "eslint --ext js,jsx,vue . --fix"
   },
