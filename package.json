@@ -16,6 +16,7 @@
     "eslint:fix": "eslint --ext js,jsx,vue . --fix"
   },
   "dependencies": {
+    "@nuxtjs/pwa": "^2.6.0",
     "nuxt": "^2.0.0"
   },
   "devDependencies": {
