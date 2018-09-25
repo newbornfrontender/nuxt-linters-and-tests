@@ -36,6 +36,10 @@ export default {
     }],
   ],
 
+  css: [
+    '~/assets/styles/main.postcss',
+  ],
+
   router: {
     linkActiveClass: 'route-active',
     linkExactActiveClass: 'route-active--exact',
